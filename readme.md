@@ -12,4 +12,4 @@ $ pip install gTTS
 ```
 
 ## Interface
-
+![gui](https://raw.githubusercontent.com/liviavianna/texto_em_fala/main/gui.png)
